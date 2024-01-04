@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![](https://octodex.github.com/daftpunktocat-thomas/)
+![](https://octodex.github.com/images/daftpunktocat-thomas.gif)
 
 <h1 align="center">Hi 👋, I'm kavaskar S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
