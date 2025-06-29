@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavaskar786&show_icons=true&locale=en" alt="kavaskar786" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavaskar786&" alt="kavaskar786" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavaskar786&" alt="kavaskar786 streal status" /></p>
 
 <!--
 **kavaskar786/kavaskar786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
